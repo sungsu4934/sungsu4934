@@ -1,5 +1,8 @@
 #### 👋 HI, I'm SUNGSU KIM
 #### ⚡ Interested in Explainable AI, Machine Learning & Deep Learning, Feature Engineering
+###
+###
+###
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
