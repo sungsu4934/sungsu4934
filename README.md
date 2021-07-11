@@ -1,5 +1,5 @@
 #### 👋 HI, I'm SUNGSU KIM
-#### ⚡ Interested in Explainable AI, Machine Learning & Deep Learning, Feature Engineering, Data Analysis, Data Mining
+#### ⚡ Interested in Data Analytics, Data Mining, Machine Learning & Deep Learning, Explainable AI
 ###
 ###
 ###
